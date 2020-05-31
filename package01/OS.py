@@ -1,6 +1,7 @@
 '''
 The functions that the OS module provides allows you to interface with the underlying operating system that Python is running on.
-OS module in Python provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory, etc.
+OS module in Python provides functions for creating and removing a directory (folder), fetching its contents, changing
+and identifying the current directory, etc.
 '''
 
 import os

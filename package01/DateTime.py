@@ -14,7 +14,7 @@ x = datetime.datetime(2020, 5, 17)
 print(x)
 
 # The datetime class has a method for formatting date objects into readable strings.
-# strftime - string format for time
+# strftime() - string format for time
 
 print("full week day-", myTime.strftime("%A"))
 print("week day with 3 letters-", myTime.strftime("%a"))

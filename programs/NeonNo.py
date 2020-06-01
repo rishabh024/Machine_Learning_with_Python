@@ -1,4 +1,5 @@
 # check if it is neon no
+# 9 is neon no
 
 a = eval(input("enter no-"))
 sqre = a ** 2

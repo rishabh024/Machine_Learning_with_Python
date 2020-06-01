@@ -1,6 +1,7 @@
 # find reverse & check if it is palindrome or not
+# 1221 is palindrome no
 
-a = int(input("enter no"))
+a = int(input("enter no-"))
 no = a
 sum = 0
 

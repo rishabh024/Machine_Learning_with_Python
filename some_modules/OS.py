@@ -12,14 +12,14 @@ print("os name is-", os.name)
 print("to get environment info.-", os.getenv('PATH'))
 
 # to get the Current Working Directory:-
-print("to get current working directory of the project-", os.getcwd())
+print("from which location, this code of the project is running-", os.getcwd())
 
 '''
 To create a new directory using the mkdir()-
 note - we get error as OS won't allow to make two files with same name at same dir.
 FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/dir'
 '''
-print(os.mkdir('C:/Users/risha/PycharmProjects/Machine_Learning_with_Python/package01/newdir'))
+print(os.mkdir('C:/Users/risha/PycharmProjects/Machine_Learning_with_Python/some_modules/newdir'))
 print("new folder/ directory is created")
 
 # to creat dir in same project, then write dirName instead of path name
@@ -33,7 +33,7 @@ print(os.mkdir("we"))
 
 
 # to change the Current Working Directory:-
-print("to change dir location-", os.chdir("we"))
+print("to get into the new dir.-", os.chdir("we"))
 print("folder location changed")
 print(os.getcwd())
 

@@ -1,5 +1,6 @@
 '''
 Python sys module provides various functions that allow us to interact with the interpreter directly.
+To tell about the environment of python in which our code is running.
 '''
 
 import sys

@@ -11,7 +11,5 @@ while (a > 0):
     a = a // 10
 
 print("reverse no is=", sum, end=' ')
-if (sum == no):
-    print(" and this no is palindrome")
-else:
-    print("and this no is not palindrome")
+
+print(" and this no is palindrome") if (sum == no) else print("and this no is not palindrome")

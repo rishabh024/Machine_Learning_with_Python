@@ -10,7 +10,4 @@ while (sqre > 0):
     sum = sum + r
     sqre = sqre // 10
 
-if (sum == a):
-    print(a, "is neon")
-else:
-    print(a, "is not neon")
+print(a, "is neon") if (sum == a) else print(a, "is not neon")

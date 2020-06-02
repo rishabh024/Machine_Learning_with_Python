@@ -17,7 +17,4 @@ while (a > 0):
     sum += (r ** count)
     a = a // 10
 
-if (sum == no):
-    print(no, "is armstrong no")
-else:
-    print(no, "is not a armstrong no")
+print(no, "is armstrong no") if (sum == no) else print(no, "is not a armstrong no")

@@ -21,7 +21,7 @@ s.update("don", "rms", "qwerty")
 print(s)
 
 # remove() / discard()-
-# s.remove("danesh")   # error occured
+# s.remove("don")   # error occured
 s.remove("r")
 print(s)
 s.discard("d")

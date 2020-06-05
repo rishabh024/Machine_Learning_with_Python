@@ -10,6 +10,7 @@ def var(*arg):
             odd.append(i)
     return even, odd
 
-ev, od = var(1, 2, 3, 4, 5, )
+
+ev, od = var(1, 2, 3, 4, 5)
 print("even  no-", ev)
 print("odd  no-", od)

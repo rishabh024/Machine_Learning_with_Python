@@ -88,3 +88,29 @@ print(d)
 # values-
 dt = {1: 2, 3: 4}
 print(dt.values())
+
+# dictionary comprehension-
+sq = {x: x * x for x in range(1, 6)}
+print(sq)
+
+s1 = {x: x * x for x in range(1, 6) if (x % 2 != 0)}
+print(s1)
+
+# Multiple if Conditional Dictionary Comprehension-
+# multiply each value by 4 in dict if value is odd:-
+st = {'a': 85, 'b': 117, 'c': 23}
+st = {k: v * 4 for (k, v) in st.items() if (v % 2 != 0) if (v > 50)}
+print("modified values are-", st.values())
+
+#  if-else Conditional in part of values-
+pr = {'a': 24, 'b': 69, 'c': 96, 'd': 393}
+new = {k: (v * 5 if (v % 2 == 0) else v * 3) for (k, v) in pr.items()}
+print(new.values())
+
+# nested dictionary with two dictionary comprehension-
+nm = {1: 'name', 2: "roll no", 3: "age", 4: "mob. no"}
+dtr = {k: {k: v for k, v in nm.items()} for k, v in nm.items()}
+print("new dtr keys-", dtr.keys())
+print("new dtr values-", dtr.values())
+print(dtr)
+print(dtr.items())

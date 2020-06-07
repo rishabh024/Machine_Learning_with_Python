@@ -1,4 +1,4 @@
-# string methods
+# string methods--
 
 # types of string--
 s = 'python'
@@ -205,3 +205,97 @@ print(s.join(t))
 d = {'1': 'a', '2': "b", '3': 'c'}
 sep = " -> "
 print(sep.join(d))
+
+# ljust-
+s = "cat"
+print("left justified-", s.ljust(20, '_'))
+
+# rjust-
+s = "cat"
+print("right justified-", s.rjust(20, '_'))
+
+# lower-
+s = "sQWerWQfgBMH12eye"
+print(s.lower())
+
+# upper-
+print(s.upper())
+
+# swapcase-
+print(s.swapcase())
+
+# strip-
+s = "  computer   "
+print('/', s.strip("core"), '/')           # same str is returned
+print('/', s.strip("core "), '/')         # mput
+print('/', s.strip(" core"), '/')         # mput
+print('/', s.lstrip(" core"), '/')
+print('/', s.rstrip(" core"), '/')
+s1 = '   this is good '
+print('/', s1.strip('s tr dmpi'), '/')
+
+# partition-
+st = '   this is good '
+print(st.partition("is"))
+print(st.rpartition("is"))
+print(st.partition("put"))
+
+# replace-
+sa = "qw eewe rertfd qw wqw fdnfd eer44re"
+print(sa.replace('qw', 'is'))
+print(sa.replace('qw', 'is', 1))
+print(sa.replace('let', 'so', 2))           # original str is returned
+
+
+# split-
+g = 'Milk, Chicken, Bread'
+# splits at ','
+print(g.split(', '))
+# Splitting at ':'
+print(g.split('@'))
+
+gs = 'Milk, Chicken, Bread, Butter'
+# maxsplit: 2
+print(gs.split(', ', 2))
+# maxsplit: 1
+print(gs.split(', ', 1))
+# maxsplit: 5
+print(gs.split(', ', 5))
+# maxsplit: 0
+print(gs.split(', ', 0))
+
+# rsplit-
+gq = 'Milk, Chicken, Bread, Butter'
+# maxsplit: 2
+print(gq.rsplit(', ', 2))
+# maxsplit: 1
+print(gq.rsplit(', ', 1))
+# maxsplit: 5
+print(gq.rsplit(', ', 5))
+# maxsplit: 0
+print(gq.rsplit(', ', 0))
+
+
+# splitlines-
+gh = 'Milk\nChicken\r\nBread\rButter'
+print(gh.splitlines())
+print(gh.splitlines(True))
+
+gtp = 'Milk Chicken Bread Butter'
+print(gtp.splitlines())
+
+
+# startswith-
+t = "Python with ML."
+result = t.startswith('Pythonwi')
+print(result)            # False
+result = t.startswith('Python wi')
+print(result)            # True
+result = t.startswith('Python with ML.')
+print(result)             # True
+print(t.startswith('wit', 7, 18))
+
+# title-
+text = 'My roll453 @#@1dkwffd@we numb22$%er is 25.'
+print(text.title())
+

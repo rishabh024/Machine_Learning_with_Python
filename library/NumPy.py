@@ -17,7 +17,10 @@ ar1 = np.array([[1, 2, 3], [4, 5, 6]])
 
 print("type of array is-", type(ar1))
 # python automatically handles the datatype of variable- (int 32/ int 64)
-print("datatype of elements ia ar-", ar1.dtype)
+print("datatype of elements is-", ar1.dtype)
+print("datatype of elements is-", ar1.dtype.name)
+print(ar1.itemsize)
+
 
 # shape tells about the dimensions of an array in the form of (rows, colm.) - (1D/2D/3D)
 print("dim. of an array-", ar1.shape)
@@ -29,6 +32,12 @@ print("_________________________________________________")
 
 # to tell the dim. of array-
 print("dim. of an array is-", ar1.ndim)
+
+print(np.array([[1, 2], [3, 4], [5, 6]]))
+print(np.array([[1, 2], [5, 6]], ndmin=2 ))
+print(np.array([1, 4, 6], dtype=complex ))
+
+
 
 # len method tells about the no. of lists exists in the outer bracket of list ie- [[1, 2, 3], [4, 5, 6]]
 print("length is-", len(ar1))          # O/P - 2

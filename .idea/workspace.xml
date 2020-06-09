@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="some error removed">
-      <change afterPath="$PROJECT_DIR$/library/CheckVersion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/NumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Machine_Learning_with_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine_Learning_with_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="some errors are removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/library/NumPy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -65,6 +62,9 @@
       <module name="Machine_Learning_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/library" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -106,6 +106,9 @@
       <module name="Machine_Learning_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/library" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -168,7 +171,9 @@
       <workItem from="1591507330212" duration="9899000" />
       <workItem from="1591533700859" duration="56000" />
       <workItem from="1591587559337" duration="875000" />
-      <workItem from="1591602989556" duration="9786000" />
+      <workItem from="1591602989556" duration="10317000" />
+      <workItem from="1591619478697" duration="88000" />
+      <workItem from="1591635752594" duration="2384000" />
     </task>
     <task id="LOCAL-00001" summary="String Methods">
       <created>1591518757012</created>
@@ -184,7 +189,28 @@
       <option name="project" value="LOCAL" />
       <updated>1591518846015</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" use this code to check the version of different libraries">
+      <created>1591613778251</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591613778251</updated>
+    </task>
+    <task id="LOCAL-00004" summary="how to use NumPy">
+      <created>1591613867131</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591613867131</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some errors are removed">
+      <created>1591613896514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591613896514</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,49 +231,56 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="String Methods" />
     <MESSAGE value="some error removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="some error removed" />
+    <MESSAGE value=" use this code to check the version of different libraries" />
+    <MESSAGE value="how to use NumPy" />
+    <MESSAGE value="some errors are removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="some errors are removed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1591466929462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591466929462" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1591605777893">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1591614187003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591605777893" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1591605777893">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591614187003" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1591614187003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591605777893" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1591605777893">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591614187003" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1591614187003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591605777893" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1591605777893">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591614187003" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1591614187003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591605777893" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591605777894">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591614187003" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591614187004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591605777894" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591605777894">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591614187004" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591614187004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591605777894" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591605777894">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591614187004" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591614187004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591605777894" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591605777894">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591614187004" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591614187004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591605777894" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591614187004" />
     <state x="297" y="42" key="SettingsEditor" timestamp="1591607881770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="297" y="42" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591607881770" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591613905031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591613905031" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591607673593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

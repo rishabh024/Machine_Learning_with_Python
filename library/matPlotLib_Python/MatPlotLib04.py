@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 t = np.arange(0.0, 5.0, 0.2)
 print(t)
 
+
 # create multiple lines in same graph
 # in string format- representation is-- 'color_name/cordinates/line'
 # 'red star dashed- 'r*--', blue square solid line - 'bs-', green triangle solid- 'gv-'
@@ -23,3 +24,4 @@ plt.plot(t, t, 'g-.',  t, t, 'ro',
          t, t+4, 'm-', t, t+4, 'ro', markersize=7)
 
 plt.show()
+

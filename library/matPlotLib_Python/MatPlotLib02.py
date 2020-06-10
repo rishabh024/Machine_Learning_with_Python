@@ -16,3 +16,4 @@ plt.ylabel("---------y cordinates------------")
 plt.legend(loc="upper right")
 plt.axis([-0.5, 5, -0.5, 10])
 plt.show()
+

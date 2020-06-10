@@ -31,3 +31,4 @@ plt.ylabel("------y cordinates----------")
 plt.axis([-0.5, 21, -5, 25])          # here we see all 4 quadrants due to given range
 plt.legend(loc='upper right')
 plt.show()
+

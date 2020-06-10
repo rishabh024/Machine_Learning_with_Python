@@ -19,14 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="code is added">
-      <change afterPath="$PROJECT_DIR$/library/matPlotLib_Python/MatPlotLib_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/numPython/NumPy_Operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/numPython/Num_Python.py" afterDir="false" />
+    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/library/matPlotLib_Python/MatPlotLib02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/matPlotLib_Python/MatPlotLib03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/MatPlotLib_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/NumPy_Operations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/Num_Python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/matPlotLib_Python/MatPlotLib_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/library/matPlotLib_Python/MatPlotLib01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +59,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MatPlotLib_file">
-    <configuration name="CheckVersion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.MatPlotLib03">
+    <configuration name="MatPlotLib02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,14 +68,36 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/library" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/library/matPlotLib_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/library/CheckVersion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/library/matPlotLib_Python/MatPlotLib02.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MatPlotLib03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machine_Learning_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/library/matPlotLib_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/library/matPlotLib_Python/MatPlotLib03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -151,35 +170,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Machine_Learning_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/methods" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/methods/StringMethods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MatPlotLib03" />
+        <item itemvalue="Python.MatPlotLib02" />
         <item itemvalue="Python.MatPlotLib_file" />
         <item itemvalue="Python.NumPy_Operations" />
         <item itemvalue="Python.Num_Python" />
-        <item itemvalue="Python.Num_Python" />
-        <item itemvalue="Python.CheckVersion" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +201,8 @@
       <workItem from="1591686824586" duration="2269000" />
       <workItem from="1591697946201" duration="8194000" />
       <workItem from="1591720794582" duration="7080000" />
-      <workItem from="1591760833142" duration="425000" />
+      <workItem from="1591760833142" duration="4301000" />
+      <workItem from="1591779085480" duration="2871000" />
     </task>
     <task id="LOCAL-00001" summary="String Methods">
       <created>1591518757012</created>
@@ -283,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591729376593</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="some changes are done">
+      <created>1591761283511</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591761283511</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,45 +318,46 @@
     <MESSAGE value="name is changed" />
     <MESSAGE value="some plotting is done by using pyplot of matplotlib" />
     <MESSAGE value="code is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="code is added" />
+    <MESSAGE value="some changes are done" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes are done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1591466929462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591466929462" />
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom" timestamp="1591729401207">
+    <state width="1493" height="138" key="GridCell.Tab.0.bottom" timestamp="1591781881710">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591729401207" />
-    <state width="1493" height="228" key="GridCell.Tab.0.center" timestamp="1591729401207">
+    <state width="1493" height="138" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591781881710" />
+    <state width="1493" height="138" key="GridCell.Tab.0.center" timestamp="1591781881709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591729401207" />
-    <state width="1493" height="228" key="GridCell.Tab.0.left" timestamp="1591729401207">
+    <state width="1493" height="138" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591781881709" />
+    <state width="1493" height="138" key="GridCell.Tab.0.left" timestamp="1591781881709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591729401207" />
-    <state width="1493" height="228" key="GridCell.Tab.0.right" timestamp="1591729401207">
+    <state width="1493" height="138" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591781881709" />
+    <state width="1493" height="138" key="GridCell.Tab.0.right" timestamp="1591781881710">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591729401207" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591614187004">
+    <state width="1493" height="138" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591781881710" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591780797541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591614187004" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591614187004">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591780797541" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591780797541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591614187004" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591614187004">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591780797541" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591780797541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591614187004" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591614187004">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591780797541" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591780797541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591614187004" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591780797541" />
     <state x="297" y="42" key="SettingsEditor" timestamp="1591724851571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -368,8 +374,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$StringMethods.coverage" NAME="StringMethods Coverage Results" MODIFIED="1591518142420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Math.coverage" NAME="Math Coverage Results" MODIFIED="1591469177775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/some_modules" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib_file.coverage" NAME="MatPlotLib_file Coverage Results" MODIFIED="1591729095440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib_file.coverage" NAME="MatPlotLib_file Coverage Results" MODIFIED="1591761771572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib02.coverage" NAME="MatPlotLib02 Coverage Results" MODIFIED="1591780459437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matPlotLib_Python" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$NumPy.coverage" NAME="NumPy Coverage Results" MODIFIED="1591605766198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib03.coverage" NAME="MatPlotLib03 Coverage Results" MODIFIED="1591781881686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matPlotLib_Python" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$NumPy_Operations.coverage" NAME="NumPy_Operations Coverage Results" MODIFIED="1591707468981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library" />
   </component>
 </project>

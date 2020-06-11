@@ -19,15 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="MatPlotLib prac.-5">
-      <change afterPath="$PROJECT_DIR$/library/matplotlib_python/Matplotlib06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/matplotlib_python/Matplotlib07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/matplotlib_python/Matplotlib08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/matplotlib_python/Matplotlib09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/matplotlib_python/MatPlotLib01.py" beforeDir="false" afterPath="$PROJECT_DIR$/library/matplotlib_python/Matplotlib01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/matplotlib_python/MatPlotLib02.py" beforeDir="false" afterPath="$PROJECT_DIR$/library/matplotlib_python/Matplotlib02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/matplotlib_python/MatPlotLib03.py" beforeDir="false" afterPath="$PROJECT_DIR$/library/matplotlib_python/Matplotlib03.py" afterDir="false" />
+    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="MatPlotLib prac.-9">
+      <change afterPath="$PROJECT_DIR$/library/pandas/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +201,7 @@
       <workItem from="1591760833142" duration="4301000" />
       <workItem from="1591779085480" duration="11191000" />
       <workItem from="1591809288794" duration="999000" />
-      <workItem from="1591850279480" duration="5501000" />
+      <workItem from="1591850279480" duration="5812000" />
     </task>
     <task id="LOCAL-00001" summary="String Methods">
       <created>1591518757012</created>
@@ -364,7 +357,42 @@
       <option name="project" value="LOCAL" />
       <updated>1591785862200</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="some changes done">
+      <created>1591857035737</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591857035737</updated>
+    </task>
+    <task id="LOCAL-00024" summary="MatPlotLib prac.-5">
+      <created>1591857063935</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591857063935</updated>
+    </task>
+    <task id="LOCAL-00025" summary="MatPlotLib prac.-7">
+      <created>1591857081739</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591857081739</updated>
+    </task>
+    <task id="LOCAL-00026" summary="MatPlotLib prac.-8">
+      <created>1591857097747</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591857097747</updated>
+    </task>
+    <task id="LOCAL-00027" summary="MatPlotLib prac.-9">
+      <created>1591857108616</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591857108616</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,8 +431,12 @@
     <MESSAGE value="MatPlotLib prac.-3" />
     <MESSAGE value="MatPlotLib prac.-4" />
     <MESSAGE value="changes done" />
+    <MESSAGE value="some changes done" />
     <MESSAGE value="MatPlotLib prac.-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="MatPlotLib prac.-5" />
+    <MESSAGE value="MatPlotLib prac.-7" />
+    <MESSAGE value="MatPlotLib prac.-8" />
+    <MESSAGE value="MatPlotLib prac.-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="MatPlotLib prac.-9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1591466929462">

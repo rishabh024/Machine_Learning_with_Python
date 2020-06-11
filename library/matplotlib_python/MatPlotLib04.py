@@ -18,10 +18,10 @@ print(t)
 # a) first draw line then draw marker, or
 # b) first draw marker then draw line
 
+plt.title("Various Graphs", color="m")
 plt.plot(t, t, 'g-.',  t, t, 'ro',
          t, t+3, 'b*', t, t+3, 'm--',
          t, t+6, 'cv', t, t+6, 'g-.',
          t, t+4, 'm-', t, t+4, 'ro', markersize=7)
 
 plt.show()
-

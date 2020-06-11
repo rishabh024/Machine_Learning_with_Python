@@ -21,7 +21,7 @@ plt.plot([2, 9, 16])
 
 plt.figure(1)
 plt.subplot(312)
-plt.title("subplot-312", color='r', fontsize=14)
+plt.title("subplot - 312", color='r', fontsize=14)
 
 # to create all figures by using 1 show cmd-
 plt.show()

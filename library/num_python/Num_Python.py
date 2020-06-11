@@ -107,3 +107,9 @@ print()
 print(np.zeros(5))
 print(np.ones(4) * 12)
 
+
+# Imp. Note:-
+# 1) np.random.rand - It is used for uniform distribution, in the half-open interval [ 0.0, 1.0 )
+# 2) np.random.randn - It is used for standard normal distribution ( mean 0 & variance 1 )
+
+

@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="MatPlotLib prac.-9">
-      <change afterPath="$PROJECT_DIR$/library/pandas/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="Pandas prac.-01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +199,7 @@
       <workItem from="1591760833142" duration="4301000" />
       <workItem from="1591779085480" duration="11191000" />
       <workItem from="1591809288794" duration="999000" />
-      <workItem from="1591850279480" duration="5812000" />
+      <workItem from="1591850279480" duration="6112000" />
     </task>
     <task id="LOCAL-00001" summary="String Methods">
       <created>1591518757012</created>
@@ -392,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591857108616</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="pandas">
+      <created>1591857351144</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1591857351144</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Pandas prac.-01">
+      <created>1591857517979</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1591857517979</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,8 +423,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String Methods" />
-    <MESSAGE value="some error removed" />
     <MESSAGE value=" use this code to check the version of different libraries" />
     <MESSAGE value="how to use NumPy" />
     <MESSAGE value="some errors are removed" />
@@ -436,7 +446,9 @@
     <MESSAGE value="MatPlotLib prac.-7" />
     <MESSAGE value="MatPlotLib prac.-8" />
     <MESSAGE value="MatPlotLib prac.-9" />
-    <option name="LAST_COMMIT_MESSAGE" value="MatPlotLib prac.-9" />
+    <MESSAGE value="pandas" />
+    <MESSAGE value="Pandas prac.-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pandas prac.-01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1591466929462">
@@ -479,10 +491,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="297" y="42" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591724851571" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591784194784">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591857520275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591784194784" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591857520275" />
     <state x="431" y="145" width="670" height="58" key="search.everywhere.popup" timestamp="1591809418776">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

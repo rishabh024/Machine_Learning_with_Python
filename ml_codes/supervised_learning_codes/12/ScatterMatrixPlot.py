@@ -1,4 +1,4 @@
-# Now, we use Scatter Matrix Plot for data visualization of the dataset--
+# Now, we use Scatter Matrix Plot for the data visualization of the dataset--
 
 # Drawing all the scatter plots together is called a Scatter Matrix Plot
 

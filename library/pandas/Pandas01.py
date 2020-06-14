@@ -37,7 +37,7 @@ print("\n")
 # columns attribute = It is a list of columns
 p1 = pd.DataFrame( np.random.randn(6,4), index=dates, columns=['A', 'B', 'C', 'D'])
 # print(p1)
-
+# p1 is the dataframe/
 
 # to see the values of any column of dataframe-
 print('\n\n', p1['C'])

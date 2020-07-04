@@ -142,9 +142,9 @@ s = '\u00BD'
 print(s.isnumeric())  # true
 
 # below all 3 stmts are False-
-print("12.456".isnumeric())
-print("12.456".isdigit())
-print("12.456".isdecimal())
+print("2 data visualization.456".isnumeric())
+print("2 data visualization.456".isdigit())
+print("2 data visualization.456".isdecimal())
 
 # isidentifier-
 str = 'Python'

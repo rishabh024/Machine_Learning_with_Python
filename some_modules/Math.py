@@ -20,7 +20,7 @@ import math
 Pi (π) is the ratio of a circle’s circumference (c) to its diameter (d):- (π = c/d)
 This ratio is always the same for any circle. It is an irrational number.
 Therefore, pi has an infinite number of decimal places, but it can be approximated as 22/7, or 3.141.
-It has its own celebration date, called Pi Day, which falls on March 14th (3/14).'''
+It has its own celebration date, called Pi Day, which falls on March 14th (3/4 feature selction).'''
 
 
 r = int(input("enter radius of circle:-"))
@@ -247,7 +247,7 @@ b = [1, 2, 3, 4, 5]
 print("sum of iterable is-", math.fsum(b))
 
 '''
-11) sqrt() -
+1 load data) sqrt() -
 Give positive real number (integer or decimal). It always returns a float value.
 The function will throw a ValueError if you try to enter a negative number.
 '''
@@ -255,7 +255,7 @@ The function will throw a ValueError if you try to enter a negative number.
 print("sqrt of no is-", math.sqrt(a))
 
 '''
-12) degrees() -
+2 data visualization) degrees() -
 Angles can be measured either by degrees or by radians. Sometimes you have to convert degrees to radians and vice versa.
 '''
 d = int(input("enter degree"))

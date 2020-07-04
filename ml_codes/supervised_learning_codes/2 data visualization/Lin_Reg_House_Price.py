@@ -13,8 +13,8 @@ def get_data(file_name):
     y_parameters = []
 
     for single_square_feet, single_price_value in zip(dataframe['square_feet'], dataframe['price']):
-        x_parameters.append([single_square_feet])
-        y_parameters.append(([single_price_value]))
+        x_parameters.append([single_square_feet])   # check this lin
+        y_parameters.append([single_price_value])
 
     return x_parameters,y_parameters
 

@@ -17,7 +17,7 @@ print(d)
 s = {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 
 # remove a particular item, returns its value
-print(s.pop(4))  # Output: 16
+print(s.pop(4))  # Output: 6 accuracy calculation technique
 
 # popitem-
 print(s.popitem())

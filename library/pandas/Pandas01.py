@@ -11,8 +11,8 @@ import pandas as pd
 
 # datatype is automatically changed by python itself - int64 / float64
 # if one element is float in list then the list behaviour will be converted to float nature-
-# print(pd.Series( [1, 2, 3, np.nan, 15, 19] ))
-# print(pd.Series( [1, 2, 3, 23.00, 15, 19] ))
+# print(pd.Series( [1, 2, 3, np.nan, 5 data separation(split), 19] ))
+# print(pd.Series( [1, 2, 3, 23.00, 5 data separation(split), 19] ))
 
 
 # # create a dataframe by passing numpy array along with a datatime index & labelled columns:-

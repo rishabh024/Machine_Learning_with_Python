@@ -40,7 +40,7 @@ print((type(ar.shape)))        # tuple
 # a) sum of 2  arrays-   addition is done by using rule of matrix
 ar2 = np.arange(7, 12)
 if(ar.shape == ar2.shape):                        # in numpy, both lists must have same shape
-    print("sum of 2 list-", ar + ar2)             #  [ 8 10 12 14 16]
+    print("sum of 2 list-", ar + ar2)             #  [ 8 10 2 data visualization 4 feature selction 6 accuracy calculation technique]
 
 # b) when array has 1 element then addition is-
 rw = np.array([8])
@@ -70,9 +70,9 @@ tr = np.array([45, 98, 76, 22, 14])
 print(tr)
 p = tr.argsort()
 print("index of tr array is printed in a list-", p)       # original tr array will not change after sorting
-print(tr)                                              # [45 98 76 22 14]
+print(tr)                                              # [45 98 76 22 4 feature selction]
 
-print("min value is-", tr[ p[0] ])                     # 14
+print("min value is-", tr[ p[0] ])                     # 4 feature selction
 print("max value is-", tr[ p[ len(p)-1 ] ])            # 98
 print("sorted array is-", end=" ")
 # type 1-
@@ -127,7 +127,7 @@ print("row wise sum-", ar5.sum(axis = 1))
 # numpy.AxisError: axis 3 is out of bounds for array of dimension 2
 # print(ar5.sum(axis=3))
 
-# ar6 = np.array([ [1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]])
+# ar6 = np.array([ [1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 1 load data, 2 data visualization]])
 # numpy.AxisError: axis 3 is out of bounds for array of dimension 2
 # print(ar6.sum(axis=3))                      # error occurs
 

@@ -19,9 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="code added">
+    <list default="true" id="4d0cea5d-504e-446d-9168-921af0589d1b" name="Default Changelist" comment="polynomial features">
+      <change afterPath="$PROJECT_DIR$/ml_codes/supervised_learning_codes/3 data trasbform/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_codes/supervised_learning_codes/5 data separation(split)/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/pandas/Pandas01.py" beforeDir="false" afterPath="$PROJECT_DIR$/library/pandas/Pandas01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/num_python/NumPy_Operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/num_python/Num_Python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/pandas/Pandas01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/pandas/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +52,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -57,8 +63,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lin_Reg_House_Price">
-    <configuration name="CorrelationMatrixPlot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Varun MLPracticalScalarSVM (1)">
+    <configuration name="111try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,12 +72,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\risha\PycharmProjects\Machine_Learning_with_Python\ml_codes\supervised_learning_codes\12\CorrelationMatrixPlot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/111try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lin_Reg_House_Price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ML_Project (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +94,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12/Lin_Reg_House_Price.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/ML_Project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ScatterMatrixPlot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ML_Project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\risha\PycharmProjects\Machine_Learning_with_Python\ml_codes\supervised_learning_codes\12\ScatterMatrixPlot.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\risha\PycharmProjects\Machine_Learning_with_Python\project\ML_Project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UnivariateBox&amp;WhiskerPlot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Varun MLPracticalScalarSVM (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\risha\PycharmProjects\Machine_Learning_with_Python\ml_codes\supervised_learning_codes\12\UnivariateBox&amp;WhiskerPlot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Varun MLPracticalScalarSVM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UnivariateDensityPlot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Varun MLPracticalScalarSVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,12 +160,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\risha\PycharmProjects\Machine_Learning_with_Python\ml_codes\supervised_learning_codes\12\UnivariateDensityPlot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/Varun MLPracticalScalarSVM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lin_Reg_House_Price" />
-        <item itemvalue="Python.ScatterMatrixPlot" />
-        <item itemvalue="Python.CorrelationMatrixPlot" />
-        <item itemvalue="Python.UnivariateBox&amp;WhiskerPlot" />
-        <item itemvalue="Python.UnivariateDensityPlot" />
+        <item itemvalue="Python.Varun MLPracticalScalarSVM (1)" />
+        <item itemvalue="Python.ML_Project (1)" />
+        <item itemvalue="Python.Varun MLPracticalScalarSVM" />
+        <item itemvalue="Python.111try" />
+        <item itemvalue="Python.ML_Project" />
       </list>
     </recent_temporary>
   </component>
@@ -215,352 +221,412 @@
       <workItem from="1592046112806" duration="5748000" />
       <workItem from="1592069565104" duration="7009000" />
       <workItem from="1592110302737" duration="6329000" />
-      <workItem from="1592126423088" duration="2754000" />
+      <workItem from="1592126423088" duration="11239000" />
+      <workItem from="1592155785293" duration="1025000" />
+      <workItem from="1592215676206" duration="6237000" />
+      <workItem from="1592300786197" duration="9750000" />
+      <workItem from="1592391368142" duration="5126000" />
+      <workItem from="1592398114816" duration="24000" />
+      <workItem from="1592451968680" duration="9740000" />
+      <workItem from="1592480326883" duration="617000" />
+      <workItem from="1592592187254" duration="54000" />
+      <workItem from="1592647526816" duration="3452000" />
+      <workItem from="1592654026083" duration="1828000" />
+      <workItem from="1592674796323" duration="4377000" />
+      <workItem from="1592716482437" duration="1609000" />
+      <workItem from="1592735581548" duration="6050000" />
+      <workItem from="1592759760088" duration="2295000" />
+      <workItem from="1592799261373" duration="6847000" />
+      <workItem from="1592818436401" duration="5524000" />
+      <workItem from="1592844353102" duration="3454000" />
+      <workItem from="1592905085386" duration="7106000" />
+      <workItem from="1592933080074" duration="1870000" />
+      <workItem from="1592973329322" duration="2433000" />
+      <workItem from="1592997595731" duration="9276000" />
+      <workItem from="1593019337300" duration="3370000" />
+      <workItem from="1593057116032" duration="8229000" />
+      <workItem from="1593079284922" duration="1072000" />
+      <workItem from="1593164257136" duration="6828000" />
+      <workItem from="1593195507994" duration="563000" />
+      <workItem from="1593239561863" duration="5380000" />
+      <workItem from="1593276988967" duration="4942000" />
+      <workItem from="1593321895326" duration="5908000" />
+      <workItem from="1593336819097" duration="9498000" />
+      <workItem from="1593366291154" duration="2342000" />
+      <workItem from="1593410134393" duration="3326000" />
+      <workItem from="1593428241735" duration="6613000" />
+      <workItem from="1593448930685" duration="1990000" />
+      <workItem from="1593498225325" duration="2085000" />
+      <workItem from="1593507055714" duration="1201000" />
+      <workItem from="1593536961482" duration="4703000" />
+      <workItem from="1593589633371" duration="6354000" />
+      <workItem from="1593606635638" duration="7326000" />
+      <workItem from="1593622512308" duration="7675000" />
+      <workItem from="1593657215591" duration="5955000" />
+      <workItem from="1593671555124" duration="585000" />
+      <workItem from="1593679886690" duration="2207000" />
+      <workItem from="1593762778601" duration="3829000" />
+      <workItem from="1593779574624" duration="249000" />
+      <workItem from="1593781004021" duration="3214000" />
+      <workItem from="1593784516611" duration="1229000" />
+      <workItem from="1593786151200" duration="719000" />
+      <workItem from="1593789992979" duration="63000" />
+      <workItem from="1593835188872" duration="1790000" />
+      <workItem from="1593847023951" duration="310000" />
+      <workItem from="1593847375802" duration="685000" />
+      <workItem from="1593857598688" duration="1282000" />
+      <workItem from="1593862264970" duration="4175000" />
+      <workItem from="1593868407506" duration="1157000" />
+      <workItem from="1593869591722" duration="24000" />
+      <workItem from="1594017404419" duration="17000" />
+      <workItem from="1594030913283" duration="813000" />
+      <workItem from="1594455518350" duration="25000" />
+      <workItem from="1594737370099" duration="665000" />
     </task>
-    <task id="LOCAL-00005" summary="some errors are removed">
-      <created>1591613896514</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00064" summary="indian diabetes dataset">
+      <created>1593866366153</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
       <option name="project" value="LOCAL" />
-      <updated>1591613896514</updated>
+      <updated>1593866366153</updated>
     </task>
-    <task id="LOCAL-00006" summary="adding some codes">
-      <created>1591687067073</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00065" summary="linear regression problem 1">
+      <created>1593866398000</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
       <option name="project" value="LOCAL" />
-      <updated>1591687067073</updated>
+      <updated>1593866398000</updated>
     </task>
-    <task id="LOCAL-00007" summary="file is modified">
-      <created>1591687095772</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00066" summary="linear regression manual code">
+      <created>1593866412034</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
       <option name="project" value="LOCAL" />
-      <updated>1591687095772</updated>
+      <updated>1593866412034</updated>
     </task>
-    <task id="LOCAL-00008" summary="some numpy operations are performed">
-      <created>1591707703824</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00067" summary="dataset for linear regression">
+      <created>1593866448315</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
       <option name="project" value="LOCAL" />
-      <updated>1591707703824</updated>
+      <updated>1593866448315</updated>
     </task>
-    <task id="LOCAL-00009" summary="name is changed">
-      <created>1591729220179</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00068" summary="load data by using CSV">
+      <created>1593866485561</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
       <option name="project" value="LOCAL" />
-      <updated>1591729220179</updated>
+      <updated>1593866485561</updated>
     </task>
-    <task id="LOCAL-00010" summary="some plotting is done by using pyplot of matplotlib">
-      <created>1591729333069</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00069" summary="load data by using Numpy">
+      <created>1593866500329</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
       <option name="project" value="LOCAL" />
-      <updated>1591729333069</updated>
+      <updated>1593866500329</updated>
     </task>
-    <task id="LOCAL-00011" summary="code is added">
-      <created>1591729376593</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00070" summary="load online data by using Numpy">
+      <created>1593866522337</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
       <option name="project" value="LOCAL" />
-      <updated>1591729376593</updated>
+      <updated>1593866522337</updated>
     </task>
-    <task id="LOCAL-00012" summary="some changes are done">
-      <created>1591761283511</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00071" summary="load online data by using Pandas">
+      <created>1593866534208</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
       <option name="project" value="LOCAL" />
-      <updated>1591761283511</updated>
+      <updated>1593866534208</updated>
     </task>
-    <task id="LOCAL-00013" summary="matplotlib file-1">
-      <created>1591782039976</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00072" summary="math module">
+      <created>1593866546863</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
       <option name="project" value="LOCAL" />
-      <updated>1591782039977</updated>
+      <updated>1593866546865</updated>
     </task>
-    <task id="LOCAL-00014" summary="matplotlib file-2">
-      <created>1591782052515</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00073" summary="Numpy operations">
+      <created>1593866561721</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
       <option name="project" value="LOCAL" />
-      <updated>1591782052515</updated>
+      <updated>1593866561721</updated>
     </task>
-    <task id="LOCAL-00015" summary="matplotlib file-3">
-      <created>1591782061083</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00074" summary="pandas">
+      <created>1593866597861</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
       <option name="project" value="LOCAL" />
-      <updated>1591782061083</updated>
+      <updated>1593866597861</updated>
     </task>
-    <task id="LOCAL-00016" summary="MatPlotLib prac.-4">
-      <created>1591783832193</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+    <task id="LOCAL-00075" summary="scatter matrix plot">
+      <created>1593866615514</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
       <option name="project" value="LOCAL" />
-      <updated>1591783832193</updated>
+      <updated>1593866615514</updated>
     </task>
-    <task id="LOCAL-00017" summary="MatPlotLib prac.-1">
-      <created>1591783863808</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+    <task id="LOCAL-00076" summary="sring methods">
+      <created>1593866628927</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
       <option name="project" value="LOCAL" />
-      <updated>1591783863808</updated>
+      <updated>1593866628927</updated>
     </task>
-    <task id="LOCAL-00018" summary="MatPlotLib prac.-2">
-      <created>1591783886979</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+    <task id="LOCAL-00077" summary="TriangularNumber problem">
+      <created>1593866647427</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
       <option name="project" value="LOCAL" />
-      <updated>1591783886979</updated>
+      <updated>1593866647427</updated>
     </task>
-    <task id="LOCAL-00019" summary="MatPlotLib prac.-3">
-      <created>1591783907003</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
+    <task id="LOCAL-00078" summary="univariate box &amp; whisker plot">
+      <created>1593866699838</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
       <option name="project" value="LOCAL" />
-      <updated>1591783907003</updated>
+      <updated>1593866699838</updated>
     </task>
-    <task id="LOCAL-00020" summary="MatPlotLib prac.-4">
-      <created>1591784047693</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
+    <task id="LOCAL-00079" summary="univariate density plot">
+      <created>1593866714621</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1591784047693</updated>
+      <updated>1593866714621</updated>
     </task>
-    <task id="LOCAL-00021" summary="changes done">
-      <created>1591784191462</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
+    <task id="LOCAL-00080" summary="univariate histogram plot">
+      <created>1593866725839</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1591784191462</updated>
+      <updated>1593866725839</updated>
     </task>
-    <task id="LOCAL-00022" summary="MatPlotLib prac.-5">
-      <created>1591785862200</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
+    <task id="LOCAL-00081" summary="polynomial features">
+      <created>1593866768506</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1591785862200</updated>
+      <updated>1593866768506</updated>
     </task>
-    <task id="LOCAL-00023" summary="some changes done">
-      <created>1591857035737</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
+    <task id="LOCAL-00082" summary="train_test_split">
+      <created>1594737438387</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
       <option name="project" value="LOCAL" />
-      <updated>1591857035737</updated>
+      <updated>1594737438389</updated>
     </task>
-    <task id="LOCAL-00024" summary="MatPlotLib prac.-5">
-      <created>1591857063935</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
+    <task id="LOCAL-00083" summary="K-fold technique">
+      <created>1594737457774</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
       <option name="project" value="LOCAL" />
-      <updated>1591857063935</updated>
+      <updated>1594737457774</updated>
     </task>
-    <task id="LOCAL-00025" summary="MatPlotLib prac.-7">
-      <created>1591857081739</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
+    <task id="LOCAL-00084" summary="neg_log_loss">
+      <created>1594737478940</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
       <option name="project" value="LOCAL" />
-      <updated>1591857081739</updated>
+      <updated>1594737478940</updated>
     </task>
-    <task id="LOCAL-00026" summary="MatPlotLib prac.-8">
-      <created>1591857097747</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
+    <task id="LOCAL-00085" summary="spot_check algorithm">
+      <created>1594737499086</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
       <option name="project" value="LOCAL" />
-      <updated>1591857097747</updated>
+      <updated>1594737499086</updated>
     </task>
-    <task id="LOCAL-00027" summary="MatPlotLib prac.-9">
-      <created>1591857108616</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
+    <task id="LOCAL-00086" summary="leave one out">
+      <created>1594737518437</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
       <option name="project" value="LOCAL" />
-      <updated>1591857108616</updated>
+      <updated>1594737518437</updated>
     </task>
-    <task id="LOCAL-00028" summary="pandas">
-      <created>1591857351144</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
+    <task id="LOCAL-00087" summary="r2">
+      <created>1594737532495</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
       <option name="project" value="LOCAL" />
-      <updated>1591857351144</updated>
+      <updated>1594737532495</updated>
     </task>
-    <task id="LOCAL-00029" summary="Pandas prac.-01">
-      <created>1591857517979</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
+    <task id="LOCAL-00088" summary="area under curve">
+      <created>1594737550363</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
       <option name="project" value="LOCAL" />
-      <updated>1591857517979</updated>
+      <updated>1594737550363</updated>
     </task>
-    <task id="LOCAL-00030" summary="other changes">
-      <created>1591857641163</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
+    <task id="LOCAL-00089" summary="confusion_matrix">
+      <created>1594737564203</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
       <option name="project" value="LOCAL" />
-      <updated>1591857641163</updated>
+      <updated>1594737564203</updated>
     </task>
-    <task id="LOCAL-00031" summary="Matplotlib prac-04">
-      <created>1591857778286</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
+    <task id="LOCAL-00090" summary="repeated random train test split">
+      <created>1594737588907</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
       <option name="project" value="LOCAL" />
-      <updated>1591857778286</updated>
+      <updated>1594737588907</updated>
     </task>
-    <task id="LOCAL-00032" summary="Pandas_prac-01">
-      <created>1591900427142</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
+    <task id="LOCAL-00091" summary="classification report">
+      <created>1594737605657</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
       <option name="project" value="LOCAL" />
-      <updated>1591900427142</updated>
+      <updated>1594737605657</updated>
     </task>
-    <task id="LOCAL-00033" summary="some changes done">
-      <created>1591900447347</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
+    <task id="LOCAL-00092" summary="binarizer">
+      <created>1594737617328</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
       <option name="project" value="LOCAL" />
-      <updated>1591900447347</updated>
+      <updated>1594737617328</updated>
     </task>
-    <task id="LOCAL-00034" summary="load data by using csv">
-      <created>1592028205548</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
+    <task id="LOCAL-00093" summary="brain tumor prediction file">
+      <created>1594737696927</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
       <option name="project" value="LOCAL" />
-      <updated>1592028205551</updated>
+      <updated>1594737696927</updated>
     </task>
-    <task id="LOCAL-00035" summary="load data by using numpy">
-      <created>1592028216279</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
+    <task id="LOCAL-00094" summary="brain tumor dataset">
+      <created>1594737712326</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
       <option name="project" value="LOCAL" />
-      <updated>1592028216279</updated>
+      <updated>1594737712326</updated>
     </task>
-    <task id="LOCAL-00036" summary="load data online by using numpy">
-      <created>1592028226826</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
+    <task id="LOCAL-00095" summary="unsupervised learning">
+      <created>1594737751666</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
       <option name="project" value="LOCAL" />
-      <updated>1592028226826</updated>
+      <updated>1594737751666</updated>
     </task>
-    <task id="LOCAL-00037" summary="load data by using pandas">
-      <created>1592028242143</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
+    <task id="LOCAL-00096" summary="standard scaler">
+      <created>1594737762618</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
       <option name="project" value="LOCAL" />
-      <updated>1592028242143</updated>
+      <updated>1594737762618</updated>
     </task>
-    <task id="LOCAL-00038" summary="csv data file">
-      <created>1592028254458</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
+    <task id="LOCAL-00097" summary="select K-best">
+      <created>1594737776463</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
       <option name="project" value="LOCAL" />
-      <updated>1592028254458</updated>
+      <updated>1594737776463</updated>
     </task>
-    <task id="LOCAL-00039" summary="some code is added">
-      <created>1592028287263</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
+    <task id="LOCAL-00098" summary="RFE">
+      <created>1594737793557</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
       <option name="project" value="LOCAL" />
-      <updated>1592028287263</updated>
+      <updated>1594737793557</updated>
     </task>
-    <task id="LOCAL-00040" summary="estimation of the coefficient of correlation">
-      <created>1592118704892</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
+    <task id="LOCAL-00099" summary="principle component analysis">
+      <created>1594737829878</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
       <option name="project" value="LOCAL" />
-      <updated>1592118704892</updated>
+      <updated>1594737829878</updated>
     </task>
-    <task id="LOCAL-00041" summary="to load data by importing csv module">
-      <created>1592118748945</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+    <task id="LOCAL-00100" summary="pandas 1">
+      <created>1594737852162</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
       <option name="project" value="LOCAL" />
-      <updated>1592118748945</updated>
+      <updated>1594737852162</updated>
     </task>
-    <task id="LOCAL-00042" summary="to load data by using numpy">
-      <created>1592118772502</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+    <task id="LOCAL-00101" summary="numpy operations">
+      <created>1594737864283</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
       <option name="project" value="LOCAL" />
-      <updated>1592118772502</updated>
+      <updated>1594737864283</updated>
     </task>
-    <task id="LOCAL-00043" summary="to load data from the url by using numpy">
-      <created>1592118808668</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+    <task id="LOCAL-00102" summary="numpy">
+      <created>1594737874318</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
       <option name="project" value="LOCAL" />
-      <updated>1592118808668</updated>
+      <updated>1594737874318</updated>
     </task>
-    <task id="LOCAL-00044" summary="to load data by importing pandas module">
-      <created>1592118825227</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+    <task id="LOCAL-00103" summary="normalizer">
+      <created>1594737884951</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
       <option name="project" value="LOCAL" />
-      <updated>1592118825227</updated>
+      <updated>1594737884951</updated>
     </task>
-    <task id="LOCAL-00045" summary="to load data from csv file">
-      <created>1592118851545</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+    <task id="LOCAL-00104" summary="linear regression">
+      <created>1594737904600</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
       <option name="project" value="LOCAL" />
-      <updated>1592118851545</updated>
+      <updated>1594737904600</updated>
     </task>
-    <task id="LOCAL-00046" summary="estimation the coefficient of correlation with the help of corr() method">
-      <created>1592118917861</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+    <task id="LOCAL-00105" summary="KNN classifier">
+      <created>1594737916719</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
       <option name="project" value="LOCAL" />
-      <updated>1592118917861</updated>
+      <updated>1594737916719</updated>
     </task>
-    <task id="LOCAL-00047" summary="univariate histogram plot">
-      <created>1592118961446</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+    <task id="LOCAL-00106" summary="KNN code">
+      <created>1594737927678</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
       <option name="project" value="LOCAL" />
-      <updated>1592118961446</updated>
+      <updated>1594737927678</updated>
     </task>
-    <task id="LOCAL-00048" summary="univariate density plot">
-      <created>1592118972788</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+    <task id="LOCAL-00107" summary="KNN dataset">
+      <created>1594737937977</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
       <option name="project" value="LOCAL" />
-      <updated>1592118972788</updated>
+      <updated>1594737937977</updated>
     </task>
-    <task id="LOCAL-00049" summary="univariate Box plot">
-      <created>1592119001438</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+    <task id="LOCAL-00108" summary="indian diabetes dataset">
+      <created>1594737961251</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
       <option name="project" value="LOCAL" />
-      <updated>1592119001438</updated>
+      <updated>1594737961251</updated>
     </task>
-    <task id="LOCAL-00050" summary="Scatter Box plot">
-      <created>1592119012529</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+    <task id="LOCAL-00109" summary="indian diabetes dataset">
+      <created>1594737970633</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
       <option name="project" value="LOCAL" />
-      <updated>1592119012529</updated>
+      <updated>1594737970633</updated>
     </task>
-    <task id="LOCAL-00051" summary="Correlation Matrix plot">
-      <created>1592119037134</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+    <task id="LOCAL-00110" summary="housing dataset">
+      <created>1594737996300</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
       <option name="project" value="LOCAL" />
-      <updated>1592119037134</updated>
+      <updated>1594737996300</updated>
     </task>
-    <task id="LOCAL-00052" summary="Scatter Matrix plot">
-      <created>1592119090879</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+    <task id="LOCAL-00111" summary="heart attack dataset">
+      <created>1594738013160</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
       <option name="project" value="LOCAL" />
-      <updated>1592119090879</updated>
+      <updated>1594738013160</updated>
     </task>
-    <task id="LOCAL-00053" summary="code added">
-      <created>1592119107141</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+    <task id="LOCAL-00112" summary="KNN classifier">
+      <created>1594738031001</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
       <option name="project" value="LOCAL" />
-      <updated>1592119107141</updated>
+      <updated>1594738031001</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,111 +645,165 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pandas prac.-01" />
-    <MESSAGE value="other changes" />
-    <MESSAGE value="Matplotlib prac-04" />
-    <MESSAGE value="Pandas_prac-01" />
-    <MESSAGE value="some changes done" />
-    <MESSAGE value="load data by using csv" />
-    <MESSAGE value="load data by using numpy" />
-    <MESSAGE value="load data online by using numpy" />
-    <MESSAGE value="load data by using pandas" />
-    <MESSAGE value="csv data file" />
-    <MESSAGE value="some code is added" />
-    <MESSAGE value="estimation of the coefficient of correlation" />
-    <MESSAGE value="to load data by importing csv module" />
-    <MESSAGE value="to load data by using numpy" />
-    <MESSAGE value="to load data from the url by using numpy" />
-    <MESSAGE value="to load data by importing pandas module" />
-    <MESSAGE value="to load data from csv file" />
-    <MESSAGE value="estimation the coefficient of correlation with the help of corr() method" />
-    <MESSAGE value="univariate histogram plot" />
-    <MESSAGE value="univariate density plot" />
-    <MESSAGE value="univariate Box plot" />
-    <MESSAGE value="Scatter Box plot" />
-    <MESSAGE value="Correlation Matrix plot" />
-    <MESSAGE value="Scatter Matrix plot" />
-    <MESSAGE value="code added" />
-    <option name="LAST_COMMIT_MESSAGE" value="code added" />
+    <MESSAGE value="leave one out" />
+    <MESSAGE value="r2" />
+    <MESSAGE value="area under curve" />
+    <MESSAGE value="confusion_matrix" />
+    <MESSAGE value="repeated random train test split" />
+    <MESSAGE value="classification report" />
+    <MESSAGE value="binarizer" />
+    <MESSAGE value="brain tumor prediction file" />
+    <MESSAGE value="brain tumor dataset" />
+    <MESSAGE value="unsupervised learning" />
+    <MESSAGE value="standard scaler" />
+    <MESSAGE value="select K-best" />
+    <MESSAGE value="RFE" />
+    <MESSAGE value="principle component analysis" />
+    <MESSAGE value="pandas 1" />
+    <MESSAGE value="numpy operations" />
+    <MESSAGE value="numpy" />
+    <MESSAGE value="normalizer" />
+    <MESSAGE value="linear regression" />
+    <MESSAGE value="KNN code" />
+    <MESSAGE value="KNN dataset" />
+    <MESSAGE value="indian diabetes dataset" />
+    <MESSAGE value="housing dataset" />
+    <MESSAGE value="heart attack dataset" />
+    <MESSAGE value="KNN classifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="KNN classifier" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="500" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592678949867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1592678949867" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1591466929462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591466929462" />
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom" timestamp="1592129200668">
+    <state width="1493" height="660" key="GridCell.Tab.0.bottom" timestamp="1593869615784">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592129200668" />
-    <state width="1493" height="228" key="GridCell.Tab.0.center" timestamp="1592129200667">
+    <state width="1493" height="660" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593869615784" />
+    <state width="1493" height="660" key="GridCell.Tab.0.center" timestamp="1593869615784">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592129200667" />
-    <state width="1493" height="228" key="GridCell.Tab.0.left" timestamp="1592129200666">
+    <state width="1493" height="660" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593869615784" />
+    <state width="1493" height="660" key="GridCell.Tab.0.left" timestamp="1593869615784">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592129200666" />
-    <state width="1493" height="228" key="GridCell.Tab.0.right" timestamp="1592129200667">
+    <state width="1493" height="660" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593869615784" />
+    <state width="1493" height="660" key="GridCell.Tab.0.right" timestamp="1593869615784">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592129200667" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592121900815">
+    <state width="1493" height="660" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593869615784" />
+    <state width="1493" height="95" key="GridCell.Tab.1.bottom" timestamp="1593664643525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592121900815" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592121900815">
+    <state width="1493" height="95" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593664643525" />
+    <state width="1493" height="95" key="GridCell.Tab.1.center" timestamp="1593664643525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592121900815" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592121900815">
+    <state width="1493" height="95" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593664643525" />
+    <state width="1493" height="95" key="GridCell.Tab.1.left" timestamp="1593664643525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592121900815" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592121900815">
+    <state width="1493" height="95" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593664643525" />
+    <state width="1493" height="95" key="GridCell.Tab.1.right" timestamp="1593664643525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592121900815" />
-    <state x="297" y="42" key="SettingsEditor" timestamp="1591724851571">
+    <state width="1493" height="95" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593664643525" />
+    <state x="100" y="89" width="981" height="707" key="SettingsEditor" timestamp="1592906278033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="297" y="42" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591724851571" />
+    <state x="100" y="89" width="981" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592906278033" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591857644798">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591857644798" />
-    <state x="431" y="145" width="672" height="160" key="search.everywhere.popup" timestamp="1592050779050">
+    <state x="349" y="67" key="editAsTableFormatDialogDimension" timestamp="1593022160031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="160" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592050779050" />
+    <state x="349" y="67" key="editAsTableFormatDialogDimension/0.0.1536.824@0.0.1536.824" timestamp="1593022160031" />
+    <state x="431" y="145" width="672" height="160" key="search.everywhere.popup" timestamp="1593349164635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="160" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593349164635" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Normalizer.coverage" NAME="Normalizer Coverage Results" MODIFIED="1593011377046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/13" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MLPracticalScalarSVM.coverage" NAME="MLPracticalScalarSVM Coverage Results" MODIFIED="1593785238301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/unguided_project" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$3_leave_one_out___1_.coverage" NAME="3 leave one out  (1) Coverage Results" MODIFIED="1593328063070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/5 data separation(split)" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Math.coverage" NAME="Math Coverage Results" MODIFIED="1591469177775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/some_modules" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$ch.coverage" NAME="ch Coverage Results" MODIFIED="1591958281692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$2_MSE.coverage" NAME="2 MSE Coverage Results" MODIFIED="1593430786150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/6 accuracy calculation technique/17 accuracy techniques in Linear regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$testing_proj.coverage" NAME="testing proj Coverage Results" MODIFIED="1593786307095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Varun_MLPracticalScalarSVM__1_.coverage" NAME="Varun MLPracticalScalarSVM (1) Coverage Results" MODIFIED="1593869600178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib09.coverage" NAME="Matplotlib09 Coverage Results" MODIFIED="1591857707469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Pandas01.coverage" NAME="Pandas01 Coverage Results" MODIFIED="1591899883186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/pandas" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$6.coverage" NAME="6 Coverage Results" MODIFIED="1592118325256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$3.coverage" NAME="3 Coverage Results" MODIFIED="1592077594880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$CorrelationMatrixPlot.coverage" NAME="CorrelationMatrixPlot Coverage Results" MODIFIED="1592999023781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$NumPy.coverage" NAME="NumPy Coverage Results" MODIFIED="1591605766198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib03.coverage" NAME="MatPlotLib03 Coverage Results" MODIFIED="1591782311297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matPlotLib_Python" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$bynumpycsv.coverage" NAME="bynumpycsv Coverage Results" MODIFIED="1592027693698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MLPractical72.coverage" NAME="MLPractical72 Coverage Results" MODIFIED="1592678852929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/unsupervised_learning_codes/20" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$StringMethods.coverage" NAME="StringMethods Coverage Results" MODIFIED="1591518142420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$2_spot_check_algorithm.coverage" NAME="2 spot check algorithm Coverage Results" MODIFIED="1593764006425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/19" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib04.coverage" NAME="MatPlotLib04 Coverage Results" MODIFIED="1591783746126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matPlotLib_Python" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib08.coverage" NAME="Matplotlib08 Coverage Results" MODIFIED="1591851754312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$LoadDataByPandas.coverage" NAME="LoadDataByPandas Coverage Results" MODIFIED="1592073193471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/11" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Lin_Reg_House_Price.coverage" NAME="Lin_Reg_House_Price Coverage Results" MODIFIED="1592129200645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib_file.coverage" NAME="MatPlotLib_file Coverage Results" MODIFIED="1591761771572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$practice.coverage" NAME="practice Coverage Results" MODIFIED="1593592187429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/unsupervised_learning_codes/20" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib03.coverage" NAME="Matplotlib03 Coverage Results" MODIFIED="1591851876902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib06.coverage" NAME="Matplotlib06 Coverage Results" MODIFIED="1591789253144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MLPractical74.coverage" NAME="MLPractical74 Coverage Results" MODIFIED="1592679114491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/unsupervised_learning_codes/20" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$1_polynomial_features__1_.coverage" NAME="1 polynomial features (1) Coverage Results" MODIFIED="1593590794127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/19" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$onlineload.coverage" NAME="onlineload Coverage Results" MODIFIED="1592027302745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$1.coverage" NAME="1 Coverage Results" MODIFIED="1592074877918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$4.coverage" NAME="4 Coverage Results" MODIFIED="1592077715057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$LoadDataOnlineByUsingNumpy.coverage" NAME="LoadDataOnlineByUsingNumpy Coverage Results" MODIFIED="1592799881817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/11" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Binarizer.coverage" NAME="Binarizer Coverage Results" MODIFIED="1593011333336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/13" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$111try.coverage" NAME="111try Coverage Results" MODIFIED="1593862781098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Linear_Regression_Manually.coverage" NAME="Linear_Regression_Manually Coverage Results" MODIFIED="1592811073770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/11" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Varun_MLPracticalScalarSVM.coverage" NAME="Varun MLPracticalScalarSVM Coverage Results" MODIFIED="1593863037338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib07.coverage" NAME="Matplotlib07 Coverage Results" MODIFIED="1591789738001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib04.coverage" NAME="Matplotlib04 Coverage Results" MODIFIED="1591857740887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$sc.coverage" NAME="sc Coverage Results" MODIFIED="1591962287241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib05.coverage" NAME="Matplotlib05 Coverage Results" MODIFIED="1591810008210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$2.coverage" NAME="2 Coverage Results" MODIFIED="1592076362475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$CSVFile__1_.coverage" NAME="CSVFile (1) Coverage Results" MODIFIED="1592027793146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$DumpModelByPickle.coverage" NAME="DumpModelByPickle Coverage Results" MODIFIED="1593615938055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/unsupervised_learning_codes/20" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$KNN_ML_code.coverage" NAME="KNN ML code Coverage Results" MODIFIED="1593434652075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/17 ko KNN algorithm" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$ScatterMatrixPlot.coverage" NAME="ScatterMatrixPlot Coverage Results" MODIFIED="1593000705585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$2.coverage" NAME="2 Coverage Results" MODIFIED="1593348385636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/6 accuracy calculation technique/16 accuracy techniques in Logistic regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$BrainTumorPrediction.coverage" NAME="BrainTumorPrediction Coverage Results" MODIFIED="1593662659543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/guided_project" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib05.coverage" NAME="MatPlotLib05 Coverage Results" MODIFIED="1591784827257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$3__1_.coverage" NAME="3 (1) Coverage Results" MODIFIED="1592394521052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/16" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1592393396468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/16" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1592654722196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/19" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$CoefficientOfCorrelation.coverage" NAME="CoefficientOfCorrelation Coverage Results" MODIFIED="1592846782952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MLPractical73.coverage" NAME="MLPractical73 Coverage Results" MODIFIED="1592678920045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/unsupervised_learning_codes/20" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$ch.coverage" NAME="ch Coverage Results" MODIFIED="1591958281692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$1_MAE.coverage" NAME="1 MAE Coverage Results" MODIFIED="1593429479564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/6 accuracy calculation technique/17 accuracy techniques in Linear regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$6.coverage" NAME="6 Coverage Results" MODIFIED="1592118325256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$3.coverage" NAME="3 Coverage Results" MODIFIED="1593372327305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/6 accuracy calculation technique/17 accuracy techniques in Linear regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib03.coverage" NAME="MatPlotLib03 Coverage Results" MODIFIED="1591782311297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matPlotLib_Python" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$1train_test_datasplit__1_.coverage" NAME="1train_test_datasplit (1) Coverage Results" MODIFIED="1593284116171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/5 data separation(split)" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$bynumpycsv.coverage" NAME="bynumpycsv Coverage Results" MODIFIED="1592027693698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib08.coverage" NAME="Matplotlib08 Coverage Results" MODIFIED="1591851754312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$1train_test_datasplit.coverage" NAME="1train_test_datasplit Coverage Results" MODIFIED="1593247873570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/5 data separation" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$LoadDataByPandas.coverage" NAME="LoadDataByPandas Coverage Results" MODIFIED="1592073193471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/11" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib_file.coverage" NAME="MatPlotLib_file Coverage Results" MODIFIED="1591761771572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$ML_Project__1_.coverage" NAME="ML_Project (1) Coverage Results" MODIFIED="1593864835633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$1.coverage" NAME="1 Coverage Results" MODIFIED="1593609222323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/unsupervised_learning_codes/20" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$4.coverage" NAME="4 Coverage Results" MODIFIED="1593371054949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/6 accuracy calculation technique/16 accuracy techniques in Logistic regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib04.coverage" NAME="Matplotlib04 Coverage Results" MODIFIED="1591857740887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$UnsupervisedAlgorithm.coverage" NAME="UnsupervisedAlgorithm Coverage Results" MODIFIED="1593615159162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/unsupervised_learning_codes/20" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$LoadDataByUsingNumpy.coverage" NAME="LoadDataByUsingNumpy Coverage Results" MODIFIED="1592799646016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/11" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$5_classification_report.coverage" NAME="5 classification report Coverage Results" MODIFIED="1593411316924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/6 accuracy calculation technique/16 accuracy techniques in Logistic regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$UnivariateBox_WhiskerPlot.coverage" NAME="UnivariateBox&amp;WhiskerPlot Coverage Results" MODIFIED="1592975375850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$StandardScaler__1_.coverage" NAME="StandardScaler (1) Coverage Results" MODIFIED="1593011420647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/13" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$4repeated_random_train_test_splits_.coverage" NAME="4repeated random train test splits  Coverage Results" MODIFIED="1593284290591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/5 data separation(split)" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Rescale_1.coverage" NAME="Rescale 1 Coverage Results" MODIFIED="1593011430519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/13" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$LgR_Movies_kNN_classifier.coverage" NAME="LgR_Movies_kNN_classifier Coverage Results" MODIFIED="1593434715585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/17 ko KNN algorithm/manual code" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$RFE.coverage" NAME="RFE Coverage Results" MODIFIED="1593075359266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/14" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$sc.coverage" NAME="sc Coverage Results" MODIFIED="1591962287241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$UnivariateDensityPlot.coverage" NAME="UnivariateDensityPlot Coverage Results" MODIFIED="1592921739321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$3_r2__1_.coverage" NAME="3 r2 (1) Coverage Results" MODIFIED="1593430776870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/6 accuracy calculation technique/17 accuracy techniques in Linear regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Matplotlib05.coverage" NAME="Matplotlib05 Coverage Results" MODIFIED="1591810008210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matplotlib_python" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$LoadDataByUsingCSV.coverage" NAME="LoadDataByUsingCSV Coverage Results" MODIFIED="1592763878812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/11" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$UnivariateHistogramPlot.coverage" NAME="UnivariateHistogramPlot Coverage Results" MODIFIED="1592905590191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$2_K_Fold__1_.coverage" NAME="2 K Fold (1) Coverage Results" MODIFIED="1593324637999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/5 data separation(split)" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$Rescale2.coverage" NAME="Rescale2 Coverage Results" MODIFIED="1593008186165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/13" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$LoadDataByUsingPandas.coverage" NAME="LoadDataByUsingPandas Coverage Results" MODIFIED="1592802207160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/11" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$CSVFile__1_.coverage" NAME="CSVFile (1) Coverage Results" MODIFIED="1592027793146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$MatPlotLib02.coverage" NAME="MatPlotLib02 Coverage Results" MODIFIED="1591780459437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library/matPlotLib_Python" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$5.coverage" NAME="5 Coverage Results" MODIFIED="1592116870244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes/12" />
     <SUITE FILE_PATH="coverage/Machine_Learning_with_Python$pandasloadtct.coverage" NAME="pandasloadtct Coverage Results" MODIFIED="1592027126149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_codes/supervised_learning_codes" />

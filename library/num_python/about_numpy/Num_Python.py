@@ -22,7 +22,7 @@ print("datatype of elements is-", ar1.dtype.name)
 print(ar1.itemsize)
 
 
-# shape tells about the dimensions of an array in the form of (rows, colm.) - (1D/2D/3D)
+# shape tells about the dimensions of an array in the form of (rows, column.) - (1D/2D/3D)
 print("dim. of an array-", ar1.shape)
 
 # size gives total size of array - (rows*colm.)

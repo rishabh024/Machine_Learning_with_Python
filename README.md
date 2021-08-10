@@ -1,9 +1,7 @@
 <br>
 <h1><p>Machine Learning</p></h1>
-<p align="center"><img src="/imgs/machine learning.PNG" height="362" width="765"><br></p>
+<p align="center"><img src="/imgs/machine learning.PNG" height="365" width="765"></p>
 <h3>It is the repository contaiing all the work that I had done in my ML Training</h3>
-
-<br>
 
 ##  Categories of Machine Learning:	
 

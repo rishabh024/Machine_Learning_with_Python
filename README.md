@@ -1,5 +1,5 @@
 <h1><p align="center">Machine Learning</p></h1>
-<p align="center"><img src="/imgs/machine learning.PNG" height="370" width="770"><br></p>
+<p align="center"><img src="/imgs/machine learning.PNG" height="363" width="770"><br></p>
 <h3>It is the repository contaiing all the work that I had done in my ML Training</h3>
 
 <br>

@@ -65,7 +65,7 @@ It is used to specify the class of input feature variable. In it, the target att
 
 * **decision tree**
 It is a binary tree in which each branch node represents a single input variable (x) and each leaf node of the tree contain an output variable (y) which is used to make a prediction. It is also called as classification and regression tree (CART).
-<img src="/imgs/decision tree.jpg" height="310" width="450">
+<img src="/imgs/decision tree.jpg" height="320" width="450">
 <br>
 
 * **Gaussian Naive Bayes Classifier**

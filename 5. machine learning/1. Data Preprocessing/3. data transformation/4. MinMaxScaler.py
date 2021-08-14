@@ -1,12 +1,3 @@
-# data tranformation simpler
-
-# a) rescale - minmaxscaler
-# s - standardizescaler
-# n = normalizer
-# b = binarizer
-
-# rescale use
-
 import pandas as pd
 from numpy import set_printoptions
 from sklearn.preprocessing import MinMaxScaler
@@ -19,7 +10,6 @@ heading_names = ['preg', 'plas', 'pres',
 
 
 dataframe = pd.read_csv(filename, names=heading_names)
-
 
 array=dataframe.values
 X = array[ : , 0:8 ]

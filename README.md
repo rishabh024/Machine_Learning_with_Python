@@ -30,6 +30,8 @@ In it, the machine learns itself how to behave in the environment by performing 
 ## Entire ML process
 <p align="center"><img src="/imgs/entireML.jpg" height="850" width="690"></p>
 
+<br>
+
 ## Data Preprocessing
 
 * **Data Loading:-**

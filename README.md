@@ -109,6 +109,3 @@ Five accuracy techniques used in logistic regression are:
   > + c. Area under ROC
   > + d. Confusion matrix
   > + e. Classification report
-
-
-## Accuracy of Machine Learning model

@@ -27,6 +27,9 @@ In it, the machine learns itself how to behave in the environment by performing 
 
 <br>
 
+## Entire ML process
+<p align="center"><img src="/imgs/entireML.jpg" height="850" width="690"></p>
+
 ## Data Preprocessing
 
 * **Data Loading:-**
@@ -104,3 +107,6 @@ Five accuracy techniques used in logistic regression are:
   > + c. Area under ROC
   > + d. Confusion matrix
   > + e. Classification report
+
+
+## Accuracy of Machine Learning model
